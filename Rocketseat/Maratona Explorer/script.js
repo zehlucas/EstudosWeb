@@ -1,3 +1,11 @@
-function teste(){
-    alert("Este é um teste")
+function OlaMundo(){
+    alert("Olá Mundo")
 }
+
+function Soma(a, b){
+    alert(a + b)
+}
+
+function Divide(a, b){
+    alert(a/b) 
+} 
